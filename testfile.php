@@ -1,2 +1,2 @@
 <?php
-echo "learning git!";
+echo "merge conflict";
